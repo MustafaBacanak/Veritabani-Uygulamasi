@@ -5,6 +5,9 @@ public class Main {
     public static void main(String[] args) {
 
         OgrenciPojo ogr = new OgrenciPojo();
+        ogr.ogrenciNoBelirle();
+        ogr.dersKaydi();
+
 
 
     }
