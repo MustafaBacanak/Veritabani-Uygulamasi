@@ -10,6 +10,8 @@ public class Main {
         System.out.println(OgrenciPojo.ANSI_YELLOW + "--------------------------");
         System.out.println(OgrenciPojo.ANSI_GREEN + OgrenciPojo.ANSI_BOLD + "Kaydınız başarılı bir şekilde tamamlanmıştır."
                 + "\nDerslerinizi sorumlu danışmanınıza onaylatınız.");
+
     }
+
 
 }
